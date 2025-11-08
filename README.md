@@ -14,7 +14,7 @@ This project extracts business listing data from Google Maps search results usin
 | Real Estate Agencies | `real estate agency antalya` |
 | Restaurants | `best restaurants istanbul` |
 | Industrial Companies | `factory near osb ankara` |
-| Local Businesses | `coffee shops near me` |
+| Bars| `bars in istanbul besiktas` |
 
 ## Installation
 ```bash
